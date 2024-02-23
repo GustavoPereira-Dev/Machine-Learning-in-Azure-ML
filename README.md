@@ -63,6 +63,10 @@ Nesse tutorial pelo README, irei explicar e demonstrar como você pode utilizar 
 4. Assim que terminar tudo (o status ao lado do nome do modelo estiver concluído e o implantar status estiver como êxito), clique no link do implantar status
 ![image](https://github.com/GustavoPereira-Dev/Machine-Learning-in-Azure-ML/assets/108029506/85946c0b-e7e3-4698-9c93-cb58ad12ff7c)
 5. Entrando assim no pontos de extremidade, clique em testar e utilize um código semelhante a esse abaixo e pronto, seu desenvolvimento de um componente nessa parte está pronto! Lembrando que o valor de resultado pode estar diferente que o padrão, e não existe problema nisso
+
+![image](https://github.com/GustavoPereira-Dev/Machine-Learning-in-Azure-ML/assets/108029506/9bdd6ee5-e02c-411c-afff-641e25921559)
+
+Nota: Essa imagem é somente uma legenda, o código deve estar nesse formato:
 <code>
  {
    "Inputs": { 
@@ -86,9 +90,6 @@ Nesse tutorial pelo README, irei explicar e demonstrar como você pode utilizar 
    "GlobalParameters": 1.0
  }
 </code>
-
-![image](https://github.com/GustavoPereira-Dev/Machine-Learning-in-Azure-ML/assets/108029506/9bdd6ee5-e02c-411c-afff-641e25921559)
-
 
 ## Deletando Recurso
 Você pode estar me perguntar "por que removê-lo", mas a resposta é simples: qualquer recurso que fica ativo (principalmente a mais que 24 horas) gasta créditos do próprio Azure, acontece que, por quanto mais tempo ele fica, acaba gastando mais desses créditos diariamente, acumulando muito o custo. Além disso, se você estiver usando o Free Trial, caso seus créditos da plataforma acabem, esse custo extra vai diretamente para o cartão cadastrado, o que vai por mim, ninguém merece isso...
