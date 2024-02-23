@@ -66,7 +66,7 @@ Nesse tutorial pelo README, irei explicar e demonstrar como você pode utilizar 
 
 ![image](https://github.com/GustavoPereira-Dev/Machine-Learning-in-Azure-ML/assets/108029506/9bdd6ee5-e02c-411c-afff-641e25921559)
 
-Nota: Essa imagem é somente uma legenda, o código deve estar nesse formato:
+Nota: Essa imagem acima é somente uma demonstração básica, o código deve estar nesse formato:
 <code>
  {
    "Inputs": { 
